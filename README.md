@@ -52,6 +52,20 @@ Streamlit-based interface for groundwater analytics and predictions.
 Supports predictions for **1–24 months ahead**.
 
 ---
+<img width="602" height="416" alt="image" src="https://github.com/user-attachments/assets/321abcfe-ea59-4f47-bbe9-2ef605023448" />
+Spatial Visualization showing wardwise predictions after 3 months and 6 months span with it’s Delta value that refers the change in Groundwater depth 
+
+<img width="861" height="646" alt="image" src="https://github.com/user-attachments/assets/5f694f1e-9e3f-4bdc-802a-1b4ec49749bb" />
+
+
+<img width="602" height="316" alt="image" src="https://github.com/user-attachments/assets/7575fd97-190f-453d-af6e-bb88c2d5b0cc" />
+Dashboard UI Controls containing Groundwater Depth Heatmap, Month,Year Selection and Ward lookup and Analysis Section
+
+<img width="940" height="633" alt="image" src="https://github.com/user-attachments/assets/403cd8ac-1be5-4a22-8bfe-bd8749c2ca21" />
+Analysis Section for the requested ward
+
+<img width="602" height="239" alt="image" src="https://github.com/user-attachments/assets/5ee0dc53-7dec-4772-a08d-f0e102277622" />
+Feature Correlations with Groundwater depth and Statement to support decision making
 
 # System Architecture
 
